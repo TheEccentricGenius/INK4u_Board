@@ -1,4 +1,46 @@
-23741809085238586
+23752163586704477
+Arduino_Footprints
+BarrelJack
+DC Barrel Jack
+Power Jack
+0
+3
+3
+Arduino_Footprints
+CD1206
+<b>Mini Melf Diode</b>
+
+0
+2
+2
+Arduino_Mini
+2X03-TP
+
+
+0
+6
+6
+Arduino_Mini
+RMS-106-02-L-S-Footprint-1
+
+
+0
+6
+6
+Arduino_Mini
+RMS-108-02-L-S-Footprint-1
+
+
+0
+8
+8
+Arduino_Mini
+RMS-110-02-L-S-Footprint-1
+
+
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
